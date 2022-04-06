@@ -1,4 +1,4 @@
-This program models a German Army and Airforce Enigma machine.
+This program models a German Army and Airforce Enigma machine. This work was done as part of my third year dissertation in my Computer Science undergraduate degree.
 
 Dependencies to be able to use this program:
 1. Make sure you have a Java compiler on your machine. 
